@@ -74,7 +74,8 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 # theme: landscape
 # theme: hexo-theme-next
-theme: hexo-theme-yilia
+# theme: hexo-theme-yilia
+theme: hexo-theme-indigoindigo
 
 # 多说
 # duoshuo_shortname: woodenrobot  # xxx.duoshuo.com，xxx即是shortname
