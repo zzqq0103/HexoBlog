@@ -11,25 +11,30 @@ menu:
   home:
     text: 主页
     url: /
-  archives:
+  archives: 
+    text: 归档
     url: /archives
-  tags:
+  tags: 
+    text: 标签
     url: /tags
-  th-list:
-    text: Categories
+  th-list: 
+    text: 分类
     url: /categories
   github:
     url: https://github.com/zzqq0103
     target: _blank
+  # About: 
+    # text: 关于我
+    # url: /about
   # weibo:
   #   url: http://www.weibo.com/ysweb
   #   target: _blank
-  link:
-    text: 测试
-    url: /custom
+  # link:
+  #   text: 测试
+  #   url: /custom
 
 # 你的头像url
-avatar: /uploads/avatar.jpg
+avatar: /img/avatar.jpg
 # avatar link
 avatar_link: /
 # 头像背景图
@@ -38,7 +43,7 @@ brand: /img/brand.jpg
 favicon: https://raw.githubusercontent.com/A-limon/pacman/master/source/img/favicon.ico
 
 # email
-email: zhangqiang9413@126.com
+email: 578017532@qq.com
 
 # 设置 Android L Chrome 浏览器状态栏颜色
 color: '#3F51B5'
@@ -64,7 +69,7 @@ share: true
 # 是否开启打赏，关闭 reward: false
 reward:
   title: 谢谢大爷~
-  wechat: /img/wechat.png     #微信，关闭设为 false
+  wechat: /img/wechat.jpg     #微信，关闭设为 false
   alipay: false     #支付宝，关闭设为 false
 
 # 是否开启搜索
@@ -135,8 +140,8 @@ visit_counter:
 
 # 动态定义title
 title_change:
-  normal: (つェ⊂)咦!又好了!
-  leave: 死鬼去哪里了！
+  normal: Kerry's Blog | 好好学习，天天向上
+  leave: Kerry's Blog | 好好学习，天天向上
 
 # 设置为 true 发布后将使用 unpkg cdn
 cdn: true

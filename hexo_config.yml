@@ -55,7 +55,11 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+        编程: programing
+        生活: life
+        其他: other
 tag_map:
+
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
@@ -74,7 +78,8 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 # theme: landscape
 # theme: hexo-theme-next
-theme: hexo-theme-yilia
+# theme: hexo-theme-yilia
+theme: indigo
 
 # 多说
 # duoshuo_shortname: woodenrobot  # xxx.duoshuo.com，xxx即是shortname
